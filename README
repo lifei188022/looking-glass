@@ -40,6 +40,6 @@ Version 1.0 - 22 April 2012
         + Support for connecting via Telnet
         + Support for Cisco routers
         + Support for Juniper routers
-
+        + Nor Support for HW route
     Bug Fixes:
         - None
